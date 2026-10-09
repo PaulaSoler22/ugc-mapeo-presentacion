@@ -5,10 +5,10 @@ decanos de la **Universidad La Gran Colombia (Sede Bogotá)**: muestra, programa
 qué asignaturas del plan de estudios pueden trabajarse hoy con un simulador, con cuál y en qué
 semestre.
 
-**62 asignaturas con simulador · 32 de aplicación directa · 30 como apoyo al curso ·
-33 simuladores · 3 pregrados y 2 especializaciones.**
+**68 asignaturas con simulador · 33 de aplicación directa · 35 como apoyo al curso ·
+33 simuladores · 3 pregrados, 2 especializaciones y 1 maestría.**
 
-## Contenido — 12 slides
+## Contenido — 13 slides
 
 1. Portada y contexto
 2. Cartelera de simuladores CompanyGame
@@ -18,10 +18,11 @@ semestre.
 6. Ficha · Contaduría Pública
 7. Ficha · Economía
 8. Ficha · Especialización en Gerencia
-9. Ficha · Especialización en Inteligencia de Mercados y Comercio Electrónico
-10. Los tres modelos de uso docente (A / B / C)
-11. Evidencia de aprendizaje
-12. Cierre y contacto
+9. Ficha · Maestría en Operaciones Inteligentes
+10. Ficha · Especialización en Inteligencia de Mercados y Comercio Electrónico
+11. Los tres modelos de uso docente (A / B / C)
+12. Evidencia de aprendizaje
+13. Cierre y contacto
 
 ## Cómo verla
 
