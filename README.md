@@ -5,8 +5,8 @@ decanos de la **Universidad La Gran Colombia (Sede Bogotá)**: muestra, programa
 qué asignaturas del plan de estudios pueden trabajarse hoy con un simulador, con cuál y en qué
 semestre.
 
-**66 asignaturas con simulador · 31 de aplicación directa · 35 como apoyo al curso ·
-31 simuladores · 3 pregrados, 2 especializaciones y 1 maestría.**
+**68 asignaturas con simulador · 33 de aplicación directa · 35 como apoyo al curso ·
+33 simuladores · 3 pregrados, 2 especializaciones y 1 maestría.**
 
 ## Contenido — 13 slides
 
